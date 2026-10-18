@@ -1,22 +1,6 @@
 {
  "version": 1,
  "files": {
-  "media/47eaf0bfc132/How-many-countries-share-the-NILE-basin.mp4": {
-   "episode": "ep10-nile-basin-countries",
-   "stem": "How-many-countries-share-the-NILE-basin",
-   "size": 50561970,
-   "sha256": "47eaf0bfc1321f459f0112e96fd2c36852a89a3c8295a6a8011b8763d3d3dbf4",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/47eaf0bfc132/How-many-countries-share-the-NILE-basin.mp4",
-   "pushed_at": "2026-10-16T09:11:08+00:00"
-  },
-  "media/c2c41de5e3d2/Which-capital-is-split-into-BUDA-and-PEST.mp4": {
-   "episode": "ep11-budapest-buda-pest",
-   "stem": "Which-capital-is-split-into-BUDA-and-PEST",
-   "size": 44160800,
-   "sha256": "c2c41de5e3d233aa4af3ab59e8b1a566408c1435854ce6fd6d40925c0f063454",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/c2c41de5e3d2/Which-capital-is-split-into-BUDA-and-PEST.mp4",
-   "pushed_at": "2026-10-16T09:11:08+00:00"
-  },
   "media/219742b59af8/Which-is-the-COLDEST-desert-on-Earth.mp4": {
    "episode": "ep12-coldest-desert-antarctica",
    "stem": "Which-is-the-COLDEST-desert-on-Earth",
