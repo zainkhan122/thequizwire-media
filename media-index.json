@@ -1,38 +1,6 @@
 {
  "version": 1,
  "files": {
-  "media/3b3ef16a1c19/Which-bird-migrates-the-FARTHEST.mp4": {
-   "episode": "ep07-arctic-tern-migration",
-   "stem": "Which-bird-migrates-the-FARTHEST",
-   "size": 45422940,
-   "sha256": "3b3ef16a1c1998b7811d35c440b0943e119df8d8e4e30433d525a0f55a978326",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/3b3ef16a1c19/Which-bird-migrates-the-FARTHEST.mp4",
-   "pushed_at": "2026-10-16T09:11:08+00:00"
-  },
-  "media/f92fa3eb6aca/Which-country-has-the-most-wild-TIGERS.mp4": {
-   "episode": "ep08-most-wild-tigers-india",
-   "stem": "Which-country-has-the-most-wild-TIGERS",
-   "size": 46307319,
-   "sha256": "f92fa3eb6acabbfe43cb725bbd3a3efaf4a1767dcb2bb2c092d807ee17be8f32",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/f92fa3eb6aca/Which-country-has-the-most-wild-TIGERS.mp4",
-   "pushed_at": "2026-10-16T09:11:08+00:00"
-  },
-  "media/2ab6d6d77a9c/Where-do-PENGUINS-live-on-the-equator.mp4": {
-   "episode": "ep09-galapagos-penguin-equator",
-   "stem": "Where-do-PENGUINS-live-on-the-equator",
-   "size": 43486269,
-   "sha256": "2ab6d6d77a9c1d6aa78a72a1d8d64a7ed81ebc42020ea46060a56c4fa5eabf50",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/2ab6d6d77a9c/Where-do-PENGUINS-live-on-the-equator.mp4",
-   "pushed_at": "2026-10-16T09:11:08+00:00"
-  },
-  "media/c77493bd0ce6/Which-Grand-Slam-is-still-played-on-GRASS.mp4": {
-   "episode": "ep10-grand-slam-on-grass-wimbledon",
-   "stem": "Which-Grand-Slam-is-still-played-on-GRASS",
-   "size": 46702208,
-   "sha256": "c77493bd0ce6ae02b58514e7103d94f1456445e240a957dde3a796aeeb657a98",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/c77493bd0ce6/Which-Grand-Slam-is-still-played-on-GRASS.mp4",
-   "pushed_at": "2026-10-16T09:11:08+00:00"
-  },
   "media/a0741b4c2673/Which-country-has-NO-rivers-at-all.mp4": {
    "episode": "ep15-no-rivers-saudi-arabia",
    "stem": "Which-country-has-NO-rivers-at-all",
