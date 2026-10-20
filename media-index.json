@@ -1,14 +1,6 @@
 {
  "version": 1,
  "files": {
-  "media/938d45aa5904/Where-were-the-FIRST-modern-Olympics-held.mp4": {
-   "episode": "ep11-first-modern-olympics-athens",
-   "stem": "Where-were-the-FIRST-modern-Olympics-held",
-   "size": 31488443,
-   "sha256": "938d45aa590437597e61fa18d728059479a93f08f7c34d33ca8fcba2c4127af8",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/938d45aa5904/Where-were-the-FIRST-modern-Olympics-held.mp4",
-   "pushed_at": "2026-10-17T18:55:35+00:00"
-  },
   "media/6cd221697850/Which-country-has-the-MOST-time-zones.mp4": {
    "episode": "ep14-most-time-zones-france",
    "stem": "Which-country-has-the-MOST-time-zones",
