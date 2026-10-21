@@ -1,14 +1,6 @@
 {
  "version": 1,
  "files": {
-  "media/6cd221697850/Which-country-has-the-MOST-time-zones.mp4": {
-   "episode": "ep14-most-time-zones-france",
-   "stem": "Which-country-has-the-MOST-time-zones",
-   "size": 33514892,
-   "sha256": "6cd2216978503b62a810472a85723ab81d3e71671b4e498d4d63064d583069de",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/6cd221697850/Which-country-has-the-MOST-time-zones.mp4",
-   "pushed_at": "2026-10-17T19:26:27+00:00"
-  },
   "media/b03f6320b170/Which-country-has-the-TALLEST-people-on-average.mp4": {
    "episode": "ep04-tallest-men-netherlands",
    "stem": "Which-country-has-the-TALLEST-people-on-average",
