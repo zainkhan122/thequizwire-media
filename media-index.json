@@ -1,14 +1,6 @@
 {
  "version": 1,
  "files": {
-  "media/b03f6320b170/Which-country-has-the-TALLEST-people-on-average.mp4": {
-   "episode": "ep04-tallest-men-netherlands",
-   "stem": "Which-country-has-the-TALLEST-people-on-average",
-   "size": 29949264,
-   "sha256": "b03f6320b170dc41f3a54169f56a564afaf3883b5a8623af9688f6e56b9b0ea1",
-   "url": "https://zainkhan122.github.io/thequizwire-media/media/b03f6320b170/Which-country-has-the-TALLEST-people-on-average.mp4",
-   "pushed_at": "2026-10-19T14:25:47+00:00"
-  },
   "media/1ce6d8743346/Where-do-KOMODO-DRAGONS-live-in-the-wild.mp4": {
    "episode": "ep10-komodo-dragons-indonesia",
    "stem": "Where-do-KOMODO-DRAGONS-live-in-the-wild",
