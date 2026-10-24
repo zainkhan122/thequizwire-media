@@ -40,6 +40,22 @@
    "sha256": "f7c64b719445f2df4b11e0099060bc7ecdb211092002d57475a211449853a538",
    "url": "https://zainkhan122.github.io/thequizwire-media/media/f7c64b719445/Which-of-these-joined-the-United-Nations-MOST-recently.mp4",
    "pushed_at": "2026-10-23T12:34:42+00:00"
+  },
+  "media/8955d739350c/How-many-mens-Cricket-World-Cups-has-Australia-won.mp4": {
+   "episode": "ep14-cricket-world-cup-wins",
+   "stem": "How-many-mens-Cricket-World-Cups-has-Australia-won",
+   "size": 29503258,
+   "sha256": "8955d739350cb56e840be6a478ba2d8f5b1c5a7b47fcb507201b74801583e429",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8955d739350c/How-many-mens-Cricket-World-Cups-has-Australia-won.mp4",
+   "pushed_at": "2026-10-24T12:59:17+00:00"
+  },
+  "media/ec21e29c4903/The-FIRST-human-heart-transplant-happened-in-which-country.mp4": {
+   "episode": "ep05-first-heart-transplant",
+   "stem": "The-FIRST-human-heart-transplant-happened-in-which-country",
+   "size": 32036793,
+   "sha256": "ec21e29c490378a021554eea82eae9c2b0cf1852ee8583c64a26209bbb200dcf",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/ec21e29c4903/The-FIRST-human-heart-transplant-happened-in-which-country.mp4",
+   "pushed_at": "2026-10-24T12:59:17+00:00"
   }
  }
 }
