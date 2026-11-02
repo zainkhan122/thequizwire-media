@@ -40,6 +40,23 @@
    "sha256": "52df59bc323327ae92026be6fd5d5f9fa8fc983ac7d0c2268820f69afb7be0be",
    "url": "https://zainkhan122.github.io/thequizwire-media/media/52df59bc3233/Which-nation-has-the-MOST-doctors-per-person.mp4",
    "pushed_at": "2026-11-01T05:13:49+00:00"
+  },
+  "media/8eb4e5e3ff19/Which-ocean-produces-the-MOST-tsunamis.mp4": {
+   "episode": "ep23-most-tsunamis-pacific",
+   "stem": "Which-ocean-produces-the-MOST-tsunamis",
+   "size": 20412024,
+   "sha256": "8eb4e5e3ff19f7a2d131dc3b5e9f811518609492474b62718a852c7f0848a1b4",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8eb4e5e3ff19/Which-ocean-produces-the-MOST-tsunamis.mp4",
+   "pushed_at": "2026-11-02T09:15:21+00:00"
+  },
+  "media/8eb4e5e3ff19/Which-ocean-produces-the-MOST-tsunamis_cover.jpg": {
+   "episode": "ep23-most-tsunamis-pacific",
+   "stem": "Which-ocean-produces-the-MOST-tsunamis",
+   "size": 169514,
+   "sha256": "00ad3ff4f3fcfe932500a072578b94a777dc036625a4225c146a30f79c17cae1",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8eb4e5e3ff19/Which-ocean-produces-the-MOST-tsunamis_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-02T09:15:21+00:00"
   }
  }
 }
