@@ -25,6 +25,23 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/8eb4e5e3ff19/Which-ocean-produces-the-MOST-tsunamis_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-02T09:15:21+00:00"
+  },
+  "media/8c96ebaa7c89/In-which-country-do-MOST-people-with-diabetes-live.mp4": {
+   "episode": "ep07-most-diabetes-china",
+   "stem": "In-which-country-do-MOST-people-with-diabetes-live",
+   "size": 31527610,
+   "sha256": "8c96ebaa7c89d43b8c472b0b7f96c58176bb1590e14c3e88833db5ad7147f459",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8c96ebaa7c89/In-which-country-do-MOST-people-with-diabetes-live.mp4",
+   "pushed_at": "2026-11-04T09:42:09+00:00"
+  },
+  "media/8c96ebaa7c89/In-which-country-do-MOST-people-with-diabetes-live_cover.jpg": {
+   "episode": "ep07-most-diabetes-china",
+   "stem": "In-which-country-do-MOST-people-with-diabetes-live",
+   "size": 177976,
+   "sha256": "6d98054deaa47ca6b075eb0d17d68b6018dec1eeda9291a04a7fa923ea484255",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8c96ebaa7c89/In-which-country-do-MOST-people-with-diabetes-live_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-04T09:42:09+00:00"
   }
  }
 }
