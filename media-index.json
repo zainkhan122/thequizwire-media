@@ -59,6 +59,23 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/0afaa6ad7b2f/Who-has-scored-the-MOST-World-Cup-goals-ever_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-04T10:04:14+00:00"
+  },
+  "media/2161cd432818/In-which-country-do-MOST-people-with-diabetes-live.mp4": {
+   "episode": "ep07-most-diabetes-china",
+   "stem": "In-which-country-do-MOST-people-with-diabetes-live",
+   "size": 31524333,
+   "sha256": "2161cd43281899544116f8dd1c2621de5438b7b3c0785717344199cae1876c0a",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/2161cd432818/In-which-country-do-MOST-people-with-diabetes-live.mp4",
+   "pushed_at": "2026-11-04T10:12:18+00:00"
+  },
+  "media/2161cd432818/In-which-country-do-MOST-people-with-diabetes-live_cover.jpg": {
+   "episode": "ep07-most-diabetes-china",
+   "stem": "In-which-country-do-MOST-people-with-diabetes-live",
+   "size": 177976,
+   "sha256": "6d98054deaa47ca6b075eb0d17d68b6018dec1eeda9291a04a7fa923ea484255",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/2161cd432818/In-which-country-do-MOST-people-with-diabetes-live_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-04T10:12:18+00:00"
   }
  }
 }
