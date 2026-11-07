@@ -94,6 +94,23 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/9ea788899b44/Which-country-has-the-MOST-time-zones_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-06T14:51:19+00:00"
+  },
+  "media/3343f2d51701/Which-country-gave-the-world-its-FIRST-vaccine.mp4": {
+   "episode": "ep09-first-vaccine-england-jenner",
+   "stem": "Which-country-gave-the-world-its-FIRST-vaccine",
+   "size": 31571410,
+   "sha256": "3343f2d5170125410fe0e43c5bc2c35cde15754e30fc22945fdad2b187600463",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/3343f2d51701/Which-country-gave-the-world-its-FIRST-vaccine.mp4",
+   "pushed_at": "2026-11-07T07:16:52+00:00"
+  },
+  "media/3343f2d51701/Which-country-gave-the-world-its-FIRST-vaccine_cover.jpg": {
+   "episode": "ep09-first-vaccine-england-jenner",
+   "stem": "Which-country-gave-the-world-its-FIRST-vaccine",
+   "size": 198219,
+   "sha256": "4e4da31f39725a160da248c8568d7f8932ebb1a2f7b44436f0d804157d5dd085",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/3343f2d51701/Which-country-gave-the-world-its-FIRST-vaccine_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-07T07:16:52+00:00"
   }
  }
 }
