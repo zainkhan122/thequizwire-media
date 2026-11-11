@@ -165,6 +165,40 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/aeb5178f6791/Where-do-the-MOST-camels-live_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-10T08:40:06+00:00"
+  },
+  "media/539f9f3f25d9/Which-country-has-the-LONGEST-coastline.mp4": {
+   "episode": "ep26-longest-coastline-canada",
+   "stem": "Which-country-has-the-LONGEST-coastline",
+   "size": 21336337,
+   "sha256": "539f9f3f25d953aa051087409d19676f4989fe65b25acbd246faa310cbcf5c9d",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/539f9f3f25d9/Which-country-has-the-LONGEST-coastline.mp4",
+   "pushed_at": "2026-11-11T16:57:29+00:00"
+  },
+  "media/dbdff448f0d8/Where-was-the-stethoscope-INVENTED.mp4": {
+   "episode": "ep11-stethoscope-invented-paris-laennec",
+   "stem": "Where-was-the-stethoscope-INVENTED",
+   "size": 32363291,
+   "sha256": "dbdff448f0d8f8f94c1bae052ebae21495b6bb39e014b35c735ae5b6b50366a4",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/dbdff448f0d8/Where-was-the-stethoscope-INVENTED.mp4",
+   "pushed_at": "2026-11-11T16:57:29+00:00"
+  },
+  "media/539f9f3f25d9/Which-country-has-the-LONGEST-coastline_cover.jpg": {
+   "episode": "ep26-longest-coastline-canada",
+   "stem": "Which-country-has-the-LONGEST-coastline",
+   "size": 180960,
+   "sha256": "9a64c21aedadb5f225d2e4b3afd9c07d28b60b8d6973315ba21d7991e4680864",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/539f9f3f25d9/Which-country-has-the-LONGEST-coastline_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-11T16:57:29+00:00"
+  },
+  "media/dbdff448f0d8/Where-was-the-stethoscope-INVENTED_cover.jpg": {
+   "episode": "ep11-stethoscope-invented-paris-laennec",
+   "stem": "Where-was-the-stethoscope-INVENTED",
+   "size": 189392,
+   "sha256": "5dff8dc02ab9771a7c57f48de8a7d9fad0d9103402a029ea1e0706f3ba65143e",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/dbdff448f0d8/Where-was-the-stethoscope-INVENTED_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-11T16:57:29+00:00"
   }
  }
 }
