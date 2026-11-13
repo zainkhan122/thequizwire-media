@@ -183,6 +183,57 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/dbdff448f0d8/Where-was-the-stethoscope-INVENTED_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-11T16:57:29+00:00"
+  },
+  "media/2adae6faac91/Which-city-saw-the-FIRST-insulin-injection.mp4": {
+   "episode": "ep12-first-insulin-injection-toronto",
+   "stem": "Which-city-saw-the-FIRST-insulin-injection",
+   "size": 27300329,
+   "sha256": "2adae6faac917463d371f2898525cfad6d1e5aeae331a8041e2a07b4fd51f68b",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/2adae6faac91/Which-city-saw-the-FIRST-insulin-injection.mp4",
+   "pushed_at": "2026-11-13T15:13:06+00:00"
+  },
+  "media/37c80e999459/Which-is-the-FLATTEST-country-on-Earth.mp4": {
+   "episode": "ep27-flattest-country-maldives",
+   "stem": "Which-is-the-FLATTEST-country-on-Earth",
+   "size": 19468796,
+   "sha256": "37c80e999459dfcac117ac2418e738cf3ab0601d156f39ffbd1d5450649075af",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/37c80e999459/Which-is-the-FLATTEST-country-on-Earth.mp4",
+   "pushed_at": "2026-11-13T15:13:06+00:00"
+  },
+  "media/b7c8313d86da/What-is-the-LOUDEST-animal-on-Earth.mp4": {
+   "episode": "ep18-loudest-animal-sperm-whale",
+   "stem": "What-is-the-LOUDEST-animal-on-Earth",
+   "size": 30273539,
+   "sha256": "b7c8313d86da34baefe246808cc781bd2ce5ec8ece5a39fff5723a234e23c8e2",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/b7c8313d86da/What-is-the-LOUDEST-animal-on-Earth.mp4",
+   "pushed_at": "2026-11-13T15:13:06+00:00"
+  },
+  "media/2adae6faac91/Which-city-saw-the-FIRST-insulin-injection_cover.jpg": {
+   "episode": "ep12-first-insulin-injection-toronto",
+   "stem": "Which-city-saw-the-FIRST-insulin-injection",
+   "size": 178998,
+   "sha256": "0730012043cc1abb03c8e3a5fe88092ae8e09fba6f7b3fb08444d791d220e5d8",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/2adae6faac91/Which-city-saw-the-FIRST-insulin-injection_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-13T15:13:06+00:00"
+  },
+  "media/37c80e999459/Which-is-the-FLATTEST-country-on-Earth_cover.jpg": {
+   "episode": "ep27-flattest-country-maldives",
+   "stem": "Which-is-the-FLATTEST-country-on-Earth",
+   "size": 175994,
+   "sha256": "a82feaff9f1756c3797efd99065351a03835811f66d15cad0468b24fd89c915b",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/37c80e999459/Which-is-the-FLATTEST-country-on-Earth_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-13T15:13:06+00:00"
+  },
+  "media/b7c8313d86da/What-is-the-LOUDEST-animal-on-Earth_cover.jpg": {
+   "episode": "ep18-loudest-animal-sperm-whale",
+   "stem": "What-is-the-LOUDEST-animal-on-Earth",
+   "size": 182732,
+   "sha256": "4e6da9028726c49e5d4ed0e5feff8fb92614e5910eea607d77e1fb06040c7806",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/b7c8313d86da/What-is-the-LOUDEST-animal-on-Earth_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-13T15:13:06+00:00"
   }
  }
 }
