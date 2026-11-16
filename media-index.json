@@ -270,6 +270,40 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/25b6e04d2675/Which-country-has-the-MOST-islands_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-15T14:38:04+00:00"
+  },
+  "media/c9a3847789fc/Which-creature-has-the-most-ENORMOUS-eyes.mp4": {
+   "episode": "ep19-biggest-eyes-colossal-squid",
+   "stem": "Which-creature-has-the-most-ENORMOUS-eyes",
+   "size": 20114112,
+   "sha256": "c9a3847789fcca9852f6583e2d377d41f745f308e66b73312ca60613565ee620",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/c9a3847789fc/Which-creature-has-the-most-ENORMOUS-eyes.mp4",
+   "pushed_at": "2026-11-16T16:50:30+00:00"
+  },
+  "media/15949c282911/Which-country-has-the-HIGHEST-capital-city.mp4": {
+   "episode": "ep30-highest-capital-la-paz",
+   "stem": "Which-country-has-the-HIGHEST-capital-city",
+   "size": 33139925,
+   "sha256": "15949c28291157a6bff836c120ec74e10b742ef627926e25d9b6bf331f2c7f38",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/15949c282911/Which-country-has-the-HIGHEST-capital-city.mp4",
+   "pushed_at": "2026-11-16T16:50:30+00:00"
+  },
+  "media/c9a3847789fc/Which-creature-has-the-most-ENORMOUS-eyes_cover.jpg": {
+   "episode": "ep19-biggest-eyes-colossal-squid",
+   "stem": "Which-creature-has-the-most-ENORMOUS-eyes",
+   "size": 175023,
+   "sha256": "070192cb1e7080cc6f49ff537db039385cd476f3bd90007e1e2524d6ec50ba1b",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/c9a3847789fc/Which-creature-has-the-most-ENORMOUS-eyes_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-16T16:50:30+00:00"
+  },
+  "media/15949c282911/Which-country-has-the-HIGHEST-capital-city_cover.jpg": {
+   "episode": "ep30-highest-capital-la-paz",
+   "stem": "Which-country-has-the-HIGHEST-capital-city",
+   "size": 191278,
+   "sha256": "c8be8013ca036299f494675470dc6bcbb0ad3ac958aedea13425ba3f5cda40ab",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/15949c282911/Which-country-has-the-HIGHEST-capital-city_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-16T16:50:30+00:00"
   }
  }
 }
