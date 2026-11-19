@@ -321,6 +321,40 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/a773b728dc04/The-navy-with-no-sea_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-19T04:03:21+00:00"
+  },
+  "media/b1462ba954bf/The-land-nobody-wants.mp4": {
+   "episode": "st02-bir-tawil-land-nobody-wants",
+   "stem": "The-land-nobody-wants",
+   "size": 31289027,
+   "sha256": "b1462ba954bfc6d1d8e8ceb9a2d11f7834917dda502793e8a288e04f559a2423",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/b1462ba954bf/The-land-nobody-wants.mp4",
+   "pushed_at": "2026-11-19T04:57:30+00:00"
+  },
+  "media/ebf4a217a48f/The-place-where-the-nearest-people-are-in-space.mp4": {
+   "episode": "st03-point-nemo-farthest-from-land",
+   "stem": "The-place-where-the-nearest-people-are-in-space",
+   "size": 37881421,
+   "sha256": "ebf4a217a48fa7a22f320085ee1b4325e18a9d8c907bfd61ce603380568c36a5",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/ebf4a217a48f/The-place-where-the-nearest-people-are-in-space.mp4",
+   "pushed_at": "2026-11-19T04:57:30+00:00"
+  },
+  "media/b1462ba954bf/The-land-nobody-wants_cover.jpg": {
+   "episode": "st02-bir-tawil-land-nobody-wants",
+   "stem": "The-land-nobody-wants",
+   "size": 189200,
+   "sha256": "9ed45bde1e421027dfb11bfea3f8b24983e446662dbd9885182e5afc23a97dee",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/b1462ba954bf/The-land-nobody-wants_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-19T04:57:30+00:00"
+  },
+  "media/ebf4a217a48f/The-place-where-the-nearest-people-are-in-space_cover.jpg": {
+   "episode": "st03-point-nemo-farthest-from-land",
+   "stem": "The-place-where-the-nearest-people-are-in-space",
+   "size": 156397,
+   "sha256": "12e5ae85b33b9f287e0758a3f68133074e2f698e4957981cd373d1ebbe8de3a7",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/ebf4a217a48f/The-place-where-the-nearest-people-are-in-space_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-19T04:57:30+00:00"
   }
  }
 }
