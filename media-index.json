@@ -304,6 +304,23 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/15949c282911/Which-country-has-the-HIGHEST-capital-city_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-16T16:50:30+00:00"
+  },
+  "media/a773b728dc04/The-navy-with-no-sea.mp4": {
+   "episode": "st01-bolivia-navy-no-coast",
+   "stem": "The-navy-with-no-sea",
+   "size": 51091172,
+   "sha256": "a773b728dc048adcf3c966403806b0f09a795eb9d9ef83fa49b66ad085659cac",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/a773b728dc04/The-navy-with-no-sea.mp4",
+   "pushed_at": "2026-11-19T04:03:21+00:00"
+  },
+  "media/a773b728dc04/The-navy-with-no-sea_cover.jpg": {
+   "episode": "st01-bolivia-navy-no-coast",
+   "stem": "The-navy-with-no-sea",
+   "size": 173064,
+   "sha256": "4688af24072caaceb9dd91dfa04d2cdf7c05c747f6b68b632b113466d36ecce4",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/a773b728dc04/The-navy-with-no-sea_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-19T04:03:21+00:00"
   }
  }
 }
