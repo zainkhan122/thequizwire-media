@@ -355,6 +355,23 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/ebf4a217a48f/The-place-where-the-nearest-people-are-in-space_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-19T04:57:30+00:00"
+  },
+  "media/8e53ecb68506/The-country-that-is-wider-than-the-Moon.mp4": {
+   "episode": "st08-australia-wider-than-the-moon",
+   "stem": "The-country-that-is-wider-than-the-Moon",
+   "size": 35006947,
+   "sha256": "8e53ecb6850644d7777a130e4469ac87ad6388ded93f6c910dfa33841e6908d7",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8e53ecb68506/The-country-that-is-wider-than-the-Moon.mp4",
+   "pushed_at": "2026-11-20T09:03:03+00:00"
+  },
+  "media/8e53ecb68506/The-country-that-is-wider-than-the-Moon_cover.jpg": {
+   "episode": "st08-australia-wider-than-the-moon",
+   "stem": "The-country-that-is-wider-than-the-Moon",
+   "size": 174698,
+   "sha256": "19caa1183a9cf14496360d8b0e6a6420ab944037d86802eff1fe3adac73a2260",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8e53ecb68506/The-country-that-is-wider-than-the-Moon_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-20T09:03:03+00:00"
   }
  }
 }
