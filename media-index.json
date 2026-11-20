@@ -406,6 +406,57 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/2180dee56b29/The-island-where-you-can-see-tomorrow_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-20T14:55:30+00:00"
+  },
+  "media/ede3078b16ef/The-US-state-closest-to-Africa-is-not-Florida.mp4": {
+   "episode": "st05-closest-us-state-to-africa",
+   "stem": "The-US-state-closest-to-Africa-is-not-Florida",
+   "size": 41798301,
+   "sha256": "ede3078b16efb7edb643b08b95ebc46e1d2b16e8670c61007c4018fe03dee20c",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/ede3078b16ef/The-US-state-closest-to-Africa-is-not-Florida.mp4",
+   "pushed_at": "2026-11-20T16:32:29+00:00"
+  },
+  "media/0d9f8904d2c3/The-hole-that-would-swallow-Everest.mp4": {
+   "episode": "st06-challenger-deep-swallows-everest",
+   "stem": "The-hole-that-would-swallow-Everest",
+   "size": 24096150,
+   "sha256": "0d9f8904d2c3c333605a19ed7ab190a4d69ea1fae7c508c1eb5314cd8d43ec80",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/0d9f8904d2c3/The-hole-that-would-swallow-Everest.mp4",
+   "pushed_at": "2026-11-20T16:32:29+00:00"
+  },
+  "media/60f092917fa6/The-country-whose-lowest-point-beats-Britains-highest.mp4": {
+   "episode": "st07-lesotho-kingdom-in-the-sky",
+   "stem": "The-country-whose-lowest-point-beats-Britains-highest",
+   "size": 77212687,
+   "sha256": "60f092917fa6a6403798110469ec701909737d7963599d48ac40938dc2fb9089",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/60f092917fa6/The-country-whose-lowest-point-beats-Britains-highest.mp4",
+   "pushed_at": "2026-11-20T16:32:29+00:00"
+  },
+  "media/ede3078b16ef/The-US-state-closest-to-Africa-is-not-Florida_cover.jpg": {
+   "episode": "st05-closest-us-state-to-africa",
+   "stem": "The-US-state-closest-to-Africa-is-not-Florida",
+   "size": 189981,
+   "sha256": "084c25c9b70c30c391792b9d7b984457be7f515c4c9dd2d36bb30e2948ff4730",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/ede3078b16ef/The-US-state-closest-to-Africa-is-not-Florida_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-20T16:32:29+00:00"
+  },
+  "media/0d9f8904d2c3/The-hole-that-would-swallow-Everest_cover.jpg": {
+   "episode": "st06-challenger-deep-swallows-everest",
+   "stem": "The-hole-that-would-swallow-Everest",
+   "size": 148202,
+   "sha256": "23847c69f69883eda2eb8fb0345a7dffa02f2c3136f2106fe7b7de2fd53c4f8d",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/0d9f8904d2c3/The-hole-that-would-swallow-Everest_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-20T16:32:29+00:00"
+  },
+  "media/60f092917fa6/The-country-whose-lowest-point-beats-Britains-highest_cover.jpg": {
+   "episode": "st07-lesotho-kingdom-in-the-sky",
+   "stem": "The-country-whose-lowest-point-beats-Britains-highest",
+   "size": 218495,
+   "sha256": "b8e44bc3669dac0aa230b78440959afc553cbba2070e6356519432deb0752858",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/60f092917fa6/The-country-whose-lowest-point-beats-Britains-highest_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-20T16:32:29+00:00"
   }
  }
 }
