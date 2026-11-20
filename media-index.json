@@ -389,6 +389,23 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/abbfd79b5258/The-country-that-is-wider-than-the-Moon_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-20T09:06:29+00:00"
+  },
+  "media/2180dee56b29/The-island-where-you-can-see-tomorrow.mp4": {
+   "episode": "st04-diomede-islands-see-tomorrow",
+   "stem": "The-island-where-you-can-see-tomorrow",
+   "size": 19525132,
+   "sha256": "2180dee56b2906c56b66f33aba180c1bb5ab0c0c7da8daee673005af3b201671",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/2180dee56b29/The-island-where-you-can-see-tomorrow.mp4",
+   "pushed_at": "2026-11-20T14:55:30+00:00"
+  },
+  "media/2180dee56b29/The-island-where-you-can-see-tomorrow_cover.jpg": {
+   "episode": "st04-diomede-islands-see-tomorrow",
+   "stem": "The-island-where-you-can-see-tomorrow",
+   "size": 170813,
+   "sha256": "4b8b0d00c9e5b265a522d9563da315b7f2b9bbb53f5573bbc9303ac99f855faf",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/2180dee56b29/The-island-where-you-can-see-tomorrow_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-20T14:55:30+00:00"
   }
  }
 }
