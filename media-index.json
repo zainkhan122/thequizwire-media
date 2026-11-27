@@ -433,6 +433,23 @@
    "url": "https://zainkhan122.github.io/thequizwire-media/media/60f092917fa6/The-country-whose-lowest-point-beats-Britains-highest_cover.jpg",
    "kind": "cover",
    "pushed_at": "2026-11-20T16:32:29+00:00"
+  },
+  "media/8d87ed7022d8/Which-country-made-the-FIRST-X-ray-image.mp4": {
+   "episode": "ep14-first-x-ray-germany-roentgen",
+   "stem": "Which-country-made-the-FIRST-X-ray-image",
+   "size": 33354541,
+   "sha256": "8d87ed7022d8f19612412c40a9506782b9f437ddd71ebfaac94819c6392e8985",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8d87ed7022d8/Which-country-made-the-FIRST-X-ray-image.mp4",
+   "pushed_at": "2026-11-27T17:41:46+00:00"
+  },
+  "media/8d87ed7022d8/Which-country-made-the-FIRST-X-ray-image_cover.jpg": {
+   "episode": "ep14-first-x-ray-germany-roentgen",
+   "stem": "Which-country-made-the-FIRST-X-ray-image",
+   "size": 584285,
+   "sha256": "d11c6502c37a16c79cc3e9034a4bcb4d0ceccd8072be099db02d7e77b42d6d49",
+   "url": "https://zainkhan122.github.io/thequizwire-media/media/8d87ed7022d8/Which-country-made-the-FIRST-X-ray-image_cover.jpg",
+   "kind": "cover",
+   "pushed_at": "2026-11-27T17:41:46+00:00"
   }
  }
 }
